@@ -14,12 +14,15 @@ I tried to implement the sin-cos generator using verilog implementation which wa
 
 #### To install iverilog and gtkwave on ubuntu20.04
 
-sudo apt-get install iverilog gtkwave -y
+`sudo apt-get install iverilog gtkwave -y`
 
 #### To run the testbench
+```
 iverilog -o cordic cordic.v cordic_tb.v
 vvp cordic
 gtkwave cordic.vcd
+
+```
 
 ### Source
 
