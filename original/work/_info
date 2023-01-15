@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech_pe_10.1c\examples
+vCORDIC
+Z1 !s100 k]T_<_M>]Vh?gcTPV7LJa2
+Z2 IH13b99hh72]^c7I3K=EWf0
+Z3 VNkNT0_^@0?e2X42=QZDNV3
+Z4 dC:\Users\Kirk\Desktop\Cordic Presentation\CORDIC Test
+Z5 w1357446565
+Z6 8C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/CORDIC.v
+Z7 FC:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/CORDIC.v
+L0 12
+Z8 OP;L;10.1c;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/CORDIC.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z11 n@c@o@r@d@i@c
+!i10b 1
+!s85 0
+Z12 !s108 1361127461.783000
+Z13 !s107 C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/CORDIC.v|
+vcordic_test
+!i10b 1
+Z14 !s100 45?nkc06HXkbIZeZD^U`B3
+Z15 I_0V>>U3c:F`if^k0GMCHd1
+Z16 VO00_K7ZQmZ5mTbYn3jMz@2
+R4
+w1361126940
+Z17 8C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/cordic_test.v
+Z18 FC:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/cordic_test.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1361127462.022000
+!s107 C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/cordic_test.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/cordic_test.v|
+R10

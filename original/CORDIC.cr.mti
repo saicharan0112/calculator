@@ -1,0 +1,15 @@
+{C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/CORDIC.v} {1 {vlog -work work {C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/CORDIC.v}
+Model Technology ModelSim PE vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module CORDIC
+
+Top level modules:
+	CORDIC
+
+} {} {}} {C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/cordic_test.v} {1 {vlog -work work {C:/Users/Kirk/Desktop/Cordic Presentation/CORDIC Test/cordic_test.v}
+Model Technology ModelSim PE vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module cordic_test
+
+Top level modules:
+	cordic_test
+
+} {} {}}
